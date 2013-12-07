@@ -1,0 +1,9 @@
+*** Python 2.7.3 (default, Apr 10 2012, 23:24:47) [MSC v.1500 64 bit (AMD64)] on win32. ***
+>>> 
+*** Remote Interpreter Reinitialized  ***
+>>> 
+Sequence 1 (312312312): 
+Start->Hot->Hot->Hot->Hot->Hot->Hot->Hot->Cold->Cold
+Sequence 2 (311233112): 
+Start->Hot->Cold->Cold->Hot->Hot->Hot->Cold->Cold->Cold
+>>> 

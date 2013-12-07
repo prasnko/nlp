@@ -1,0 +1,1 @@
+I have used two methods sequence 1 and sequence 2 for the two parts in the question. 

@@ -1,0 +1,91 @@
+*** Python 2.7.3 (default, Apr 10 2012, 23:24:47) [MSC v.1500 64 bit (AMD64)] on win32. ***
+>>> 
+*** Remote Interpreter Reinitialized  ***
+>>> 
+
+
+12th of August 1914 
+
+
+90
+
+
+November 21st 
+
+
+11th of November 1915 
+
+
+April 14 1917 
+
+
+July 24 2002 
+
+
+11th of April 3 
+
+
+29th of March 1927 
+
+
+200
+
+
+May 20th 
+
+
+1927
+
+
+7th of August 1930 
+
+
+15th of May 
+
+
+15th of September 
+
+
+15th 
+
+
+May 2 1933 
+
+
+40
+
+
+July 7th 1910 
+
+
+1st of August 
+
+
+September 3rd of 
+
+
+10th 
+
+
+September 14 2004 
+
+
+71
+
+
+10th of November 1939 
+
+
+12 
+
+
+January 9th 1942 
+
+
+October 29th of 43 
+
+
+July 17 1968 
+
+
+4th of September 1961 
